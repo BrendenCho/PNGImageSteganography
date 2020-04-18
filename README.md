@@ -10,3 +10,5 @@ This is a tool to encode messeges into png files. This tool changes the least si
 * JavaFX
 * Muti-Threading
 * Object Oriented Programming
+## Contact
+brendencho44@gmail.com
